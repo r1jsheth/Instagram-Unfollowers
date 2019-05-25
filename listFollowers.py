@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 fileName = 'Insta-followers-25-05-2019.html'
 
 curDate = "25-05-2019"
-outputFileName = "data/followers-"+curDate
+outputFileName = "followers-"+curDate
 
 followers_file = open(outputFileName,"w+")
 
