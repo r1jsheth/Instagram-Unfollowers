@@ -20,7 +20,7 @@ Or else you can simple follow instructions [here](https://www.crummy.com/softwar
 
    `git clone https://github.com/rhetoricalraj/Instagram-Unfollowers`
 
-3. Log in to Instagram using your PC and go to [your account](https://www.instagram.com/rhetorical_raj/followers/) page. You can see all your followers, scroll down until all your followers are loaded.
+3. Log in to Instagram using your PC and go to [your account](https://www.instagram.com/<your_username>/followers/) page. You can see all your followers, scroll down until all your followers are loaded.
 
 4. Save this page in `.html` format using `CTRL` `+` `S` to the directory where this repository is cloned.
 
