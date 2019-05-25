@@ -6,15 +6,15 @@ Don't worry this app **doesn't require** you to sign in to any 3rd party where y
 
 This script stores all your follwers in a file. After few days when you create multiple files, you can find difference between files and identify lost followers and gained followers from `fgrep -vxf newFile prevFile` command.
 
-###**Dependencies**
+**Dependencies**
 
-#**Install BeautifulSoup (bs4)**
+**Install BeautifulSoup (bs4)**
 
 `sudo pip3 install beautifulsoup4 `
 
 Or else you can simple follow instructions [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup).
 
-###**Instructions**
+**Instructions**
 
 1. Go ahead only after you have installed BeautifulSoup(bs4) library for python3.
 
