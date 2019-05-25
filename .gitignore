@@ -1,5 +1,6 @@
 *
 !LICENSE
+!data/
 !listFollowers.py
 !README.md
 !.gitignore
