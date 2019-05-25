@@ -39,3 +39,7 @@ Or else you can simple follow instructions [here](https://www.crummy.com/softwar
    This script will create a file in `data` directory named `followers` + `curDate`. Which will store your all current followers as of today.
    
 9. Now come back after few days and run this `listFollowers.py` once again. You can run `unfollowers.sh` which will identify the difference between **previous followers list** file and **current followers list** file. Ouput file will be generated.
+
+### License
+
+The MIT License (MIT)
