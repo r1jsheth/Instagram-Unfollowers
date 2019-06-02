@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # You must log in, on your browser
 curDate = "02-06-2019"
 
-fileName = 'data/Insta-followers-' + curDate
+fileName = 'data/Insta-followers-' + curDate + '.html'
 
 # All your followers list will be saved in ./data/followers-<curData> file
 outputFileName = "data/followers-"+curDate
