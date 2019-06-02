@@ -2,10 +2,10 @@ from bs4 import BeautifulSoup
 
 # HTML file which you have saved from https://www.instagram.com/<your_username>/followers/
 # You must log in, on your browser
-fileName = 'Insta-followers-25-05-2019.html'
+curDate = "02-06-2019"
 
+fileName = 'data/Insta-followers-' + curDate
 
-curDate = "26-05-2019"
 # All your followers list will be saved in ./data/followers-<curData> file
 outputFileName = "data/followers-"+curDate
 
