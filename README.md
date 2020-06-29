@@ -2,7 +2,7 @@
 
 This is one of the easiest way to find your **unfollowers** and **new followers**! I have created a simple web-scraper using [BeautifulSoup](<https://pypi.org/project/beautifulsoup4/>).
 
-Don't worry this app **doesn't require** you to sign in to any 3rd party where you need to sign in. Simply follow my instructions and you will be ready to go.
+Don't worry this app **doesn't require** you to sign in to any 3rd party where you need to sign in. Simply follow following instructions and you will be ready to go.
 
 This script stores all your follwers in a file. After few days when you create multiple files, you can find difference between files and identify lost followers and gained followers from `fgrep -vxf newFile prevFile` command.
 
